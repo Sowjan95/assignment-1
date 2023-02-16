@@ -1,6 +1,8 @@
 # Assignment 1 - Zoo
-### Name: Sowjanya Sritharasarma
-### GitHub: Sowjan95
+### Name: 
+Sowjanya Sritharasarma
+### GitHub: 
+Sowjan95
 
 This repository contains the code for Assignment 1 - Zoo.
 
