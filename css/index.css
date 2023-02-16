@@ -1,5 +1,31 @@
 body {
-  font-family: Gill Sans, sans-serif;
-  background-color: salmon;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  background-color: #F4F1DE;
   text-align: center;
+}
+
+#title {
+  font-size: 8ex;
+  padding-top: 20px;
+  padding-bottom: 15px;
+}
+
+#link-header {
+  font-size: 5ex;
+  padding-bottom: 30px;
+}
+
+.col {
+  margin: 25px;
+}
+
+.col > h3 {
+  font-size: 4ex;
+  padding-top: 15px;
+}
+
+.col > img {
+  width: 280px;
+  height: 200px;
+  border-radius: 10px;
 }
