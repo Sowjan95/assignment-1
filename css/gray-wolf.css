@@ -1,0 +1,12 @@
+body {
+    font-family: Cochin;
+    background-color: #3D405B;
+    text-align: center;
+    color: white;
+  }
+  p {
+    font-size: 3.5ex;
+    padding-left: 5ex;
+    padding-right: 5ex;
+  }
+  

@@ -2,17 +2,40 @@
 <html>
   <head>
     <title>Sowjanya's Zoo</title>
+    
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-gH2yIJqKdNHPEq0n4Mqa/HGKIhSkIHeL5AyhkYV8i59U5AR6csBvApHHNl/vI1Bx" crossorigin="anonymous">
     <link rel="stylesheet" type="text/css" href="css/index.css">
   </head>
   <body>
-    <h1>Welcome to Sowjanya's Zoo</h1>
-    <h3>See the animals at the zoo:</h3>
+    <h1 id="title">Welcome to Sowjanya's Zoo</h1>
+    <h3 id="link-header">See the animals at the zoo:</h3>
     <div class="link">
-      <a href="polar-bear.html">Polar Bear</a>
-      <a href="eastern-bluebird.html">Eastern Bluebird</a>
-      <a href="gray-wolf.html">Gray Wolf</a>
-      <a href="red-panda.html">Red Panda</a>
-      <a href="srilankan-elephant.html">Sri Lankan Elephant</a>
+
+      <div class="container-fluid text-center">
+        <div class="row">
+
+          <div class="col">
+            <img src="img/eastern-bluebird.jpg" alt="eastern bluebird" width="200px">
+            <h3><a href="eastern-bluebird.html">Eastern Bluebird</a></h3>
+          </div>
+        
+          <div class="col">
+            <img src="img/wolf.jpg" alt="gray wolf">
+            <h3><a href="gray-wolf.html">Gray Wolf</a></h3>
+          </div>
+          
+          <div class="col">
+            <img src="img/red-panda.jpg" alt="red panda">
+            <h3><a href="red-panda.html">Red Panda</a></h3>
+          </div>
+
+          <div class="col">
+            <img src="img/elephant.jpg" alt="sri lankan elephant">
+            <h3><a href="srilankan-elephant.html">Sri Lankan Elephant</a></h3>
+          </div>
+        </div>
+      </div>
+
     </div>
   </body>
 </html>
