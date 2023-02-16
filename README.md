@@ -1,13 +1,10 @@
 # Assignment 1 - Zoo
-### Name: 
-Sowjanya Sritharasarma
-### GitHub: 
-Sowjan95
+### Name: Sowjanya Sritharasarma
+### GitHub: Sowjan95
 
 This repository contains the code for Assignment 1 - Zoo.
 
-### Live Link
-[Website link](https://sowjan95.github.io/assignment-1/)
+### Live Link: [Website link](https://sowjan95.github.io/assignment-1/)
 
 ----------
 ### 1. Use the following process to ***import*** the Assignment 1 starter code repository to your GitHub account as your starter codebase
